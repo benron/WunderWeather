@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>744E8AB5-ACF1-4DF6-98F0-B000A73BC544</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WunderWeather</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1680EC29-CF39-47E4-B4DB-432D4DA7C0B0</key>
+		<string>https://github.com/benron/WunderWeather.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WunderWeather.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1680EC29-CF39-47E4-B4DB-432D4DA7C0B0</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/benron/WunderWeather.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1680EC29-CF39-47E4-B4DB-432D4DA7C0B0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1680EC29-CF39-47E4-B4DB-432D4DA7C0B0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WunderWeather</string>
+		</dict>
+	</array>
+</dict>
+</plist>
